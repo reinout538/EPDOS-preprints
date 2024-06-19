@@ -5,7 +5,8 @@ What it does:
 
 2) loop over preprint xml-files in specified directory - for each file:
    
-   a) open file and parse xml (process_xml.py) [creates dictionary of authors and organizations]
+   a) open file and parse xml (process_xml.py)
+   [creates dictionary of authors and organizations]
    
    b) match scopus-AUIDs xml to scopus-AUIDs in Pure person records
    
@@ -13,8 +14,8 @@ What it does:
    
    d) create xml-record for Pure-ingest (build_xml_pure.py)
 
-3) save xml-file for pure ingest
+4) save xml-file for pure ingest
 
-4) save pd-dataframes as csv-files
+5) save pd-dataframes as csv-files
 
 
