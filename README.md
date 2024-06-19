@@ -13,6 +13,7 @@ What it does:
    c) add data to pd-dataframes for analyzing xml-record data on publ record / authors / affiliations
    
    d) create xml-record for Pure-ingest (build_xml_pure.py)
+   []
 
 4) save xml-file for pure ingest
 
