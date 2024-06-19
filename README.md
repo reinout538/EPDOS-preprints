@@ -5,7 +5,7 @@ What it does:
 
 2) loop over preprint xml-files in specified directory - for each file:
    
-   a) open file and parse xml (process_xml.py)
+   a) open file and parse xml (process_xml.py) [creates dictionary of authors and organizations]
    
    b) match scopus-AUIDs xml to scopus-AUIDs in Pure person records
    
